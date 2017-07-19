@@ -1,0 +1,15 @@
+# .gitignore for current project
+# There's a lot here, please try to keep it organized.
+
+
+### Files private to developers
+
+### Python artifacts
+*.pyc
+
+### Configuration files
+*.cfg
+
+### Idea files
+
+*.idea
