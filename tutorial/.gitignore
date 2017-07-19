@@ -13,3 +13,7 @@
 ### Idea files
 
 *.idea
+
+## SWP files
+
+*.swp
